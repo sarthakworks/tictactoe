@@ -12,12 +12,6 @@ import bg from "./../../assets/bg.jpeg";
 
 import Cell from "./Cell";
 
-const emptyMap = [
-  ["", "", ""], // 1st row
-  ["", "", ""], // 2nd row
-  ["", "", ""], // 3rd row
-];
-
 const copyArray = (original) => {
   const copy = original.map((arr) => {
     return arr.slice();
@@ -26,7 +20,11 @@ const copyArray = (original) => {
 };
 
 export default function Game({ setView, gameMode }) {
-  const [map, setMap] = useState(emptyMap);
+  const [map, setMap] = useState([
+    ["", "", ""], // 1st row
+    ["", "", ""], // 2nd row
+    ["", "", ""], // 3rd row
+  ]);
   const [currentTurn, setCurrentTurn] = useState("x");
   // const [gameMode, setGameMode] = useState("BOT"); // HUMAN, BOT, BOT_MEDIUM;
 
