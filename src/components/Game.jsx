@@ -279,7 +279,7 @@ const styles = StyleSheet.create({
   map: {
     width: "80%",
     aspectRatio: 1,
-    top: 22,
+    top: 30,
   },
   row: {
     flex: 1,
@@ -295,9 +295,10 @@ const styles = StyleSheet.create({
     margin: 10,
     fontSize: 16,
     backgroundColor: "#c14953",
-    padding: 10,
+    padding: 20,
     paddingHorizontal: 15,
-    minWidth: "25%",
+    borderRadius: 10,
+    minWidth: "30%",
     textAlign: "center",
     fontFamily: "porky",
     letterSpacing: 2,
