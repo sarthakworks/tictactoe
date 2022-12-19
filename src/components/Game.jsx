@@ -299,5 +299,7 @@ const styles = StyleSheet.create({
     paddingHorizontal: 15,
     minWidth: "25%",
     textAlign: "center",
+    fontFamily: "porky",
+    letterSpacing: 2,
   },
 });
