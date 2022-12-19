@@ -24,7 +24,7 @@ export default function Home({ setView, setGameMode }) {
         <Text
           style={styles.button}
           onPress={() => {
-            setView("game"), setGameMode("HUMAN");
+            setView("game"), setGameMode("Hard_BOT");
           }}
         >
           <Text>1 Player</Text>
@@ -32,7 +32,7 @@ export default function Home({ setView, setGameMode }) {
         <Text
           style={styles.button}
           onPress={() => {
-            setView("game"), setGameMode("Hard_BOT");
+            setView("game"), setGameMode("HUMAN");
           }}
         >
           <Text>2 Player</Text>
