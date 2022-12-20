@@ -2,14 +2,14 @@
   "expo": {
     "name": "Zero Kati",
     "slug": "ZeroKati",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#3b1c32"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -20,14 +20,20 @@
     },
     "android": {
       "package": "com.sarthakworks.zerokati",
-      "versionCode": 1,
+      "permissions": ["com.google.android.gms.permission.AD_ID"],
+      "versionCode": 2,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
+        "backgroundColor": "#3b1c32"
       }
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "cdca147a-ea50-42a3-82dd-04afb21328d2"
+      }
     }
   }
 }

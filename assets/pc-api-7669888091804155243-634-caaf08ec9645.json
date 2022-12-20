@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pc-api-7669888091804155243-634",
+  "private_key_id": "caaf08ec9645bd588940a7bcbdcc69fbf0dfa4eb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDYA1ReVz2Skka2\n9b8A6RtZ+PDqp/UKG85jpP9CqHeImNPIMFCPuIK/xnRlH+WDg/XkjPAFr3diMG7+\n2hECnArjz7HvxMi7IUgDGOsuVfLxoJOQTrOr1NV2i+/2Jru8bB/S5dBQ4Ky2wP9x\nrgHOQCGpq6eZvsiLCSZ9VPmAotRlKGrOMDFK00sBbsE6SZmdqnCxPWnGA3dkhtuU\nQc5NBb0dlo5JiNBN9OZuNzLkJuKQidJDy1bcZ9NsEXkGtSTgK4qeoKXrk2uvKfn5\nrLMz8KueMUO826yP+IY1Xtxv+7tdx3cChfjrfNozoh1RAnhrygjAnLaj6qBu1x6y\nH8YTNJmvAgMBAAECggEAJ//J1iRSbvsuI//ya/E+UtVBizopqkMG3zW03LuEUuN1\nx+qGaG6Sq39Mm1MiNU2wsS8V3P+mXCS60O9BWhnZ/GA/wzXNs7UQeB5bojthHrQM\nzxp7s7RYCLkV6J84gUYGSI+smOVZpger5XmCtRX0Bc6W3OXSjchWe7vJ7bN5H/fa\nZB8pxugkIUe997a6mH8Ysv5liNdjdauMlsP/3McYniEBPfuHOS8V+3sY5Q9yXGxU\nsMel5QDANTWh3rF9Y2kMSsn609swW96TfVKs65E2JyM6E5ai21RBjZxyfpo/sarT\nac4jDXWSMMA1xQiWgyHWQUTxxYOTjmrjvbHEGWB16QKBgQDrq7imxL5rDZ8cMeM7\nIhoicUNIn7lINoKRD+9DXqyGlOCA5Lt5i2ZanOxj4tUIzKr4srYgbhyhHjJ5xHEw\nAzOIiTvCBRoxTD3Ig2CUwG97V5wIglPJjasSIi/nmlyBAMO9DfUShk6svOIbGMcx\nSVt30aUAvsAPGjUZh4TrbisENwKBgQDqpYI/wCXK1nskky49Ky/q+Wwggv50+3j+\nlAwHjiUe7H/ERz37ikduUzyPvM5bFL7FtsBqw8Hydem7nEVTcf8ntc5qix7nm53/\nHDJQgTwboHNj52lXl4xZ3fXcNHCBrV2RoRS5+jcDZ2fJ08Tb/4sx0uV2XjlSf7XV\n8XVBoMvKSQKBgQCdjhJGu+Wp4FNtIBUQJX5fZGVdGhteocKshICrA5JH7yQgR8rm\nOUHWdm67YJyX42yyE5gbGkJdnLiWG7SoKpu7PjQLRCn8p0Hu2ZYqHHTreui/75Fg\ngCvMVbq9Fb+eJwq1S616EvxqE2T+RJR26NoTwr6TPvNbpWO2i5lbZC2yBQKBgGnP\ngsGesywZteQTXqmEvRH3sbOjfn1gHPqn5hjOF50vRppLCf9RJs7wSAIFQQS/gRuF\nQpWieuYMF/9bA8QSRt4wVMmkvKXyfbfZjjLRZDqNCxvE8bLnCwpHViQbnZRMikIu\nYjtPQtmNGrdfgIk4Xht0n7bV3IGAR44XWSnkCaHJAoGACFX/2JLmzQm3IB8/ZcDU\nM5L59A82E4/uHF/DmLKYvOdX7WwaJex2Z9Rpru5UJnUGeaGYZxY1CM08FM3/zk6c\narERiwgIlp+cgsNwl/uP56QJEMZssXJ+51jBuAp3eSzgxCpUW9qW6cnT9zg5gRWm\ni4JqYFHAs6jYmFKs6OjgdhA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sarthakworks-zerokati@pc-api-7669888091804155243-634.iam.gserviceaccount.com",
+  "client_id": "111186164540620963319",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sarthakworks-zerokati%40pc-api-7669888091804155243-634.iam.gserviceaccount.com"
+}
